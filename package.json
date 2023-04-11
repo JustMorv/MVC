@@ -1,0 +1,26 @@
+{
+  "name": "packege.json",
+  "version": "1.0.0",
+  "description": "this is pattern os MVC",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justMorv/MVC.git"
+  },
+  "keywords": [
+    "model",
+    "view",
+    "controller",
+    "imLazy"
+  ],
+  "author": "jusMorv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justMorv/MVC/issues"
+  },
+  "homepage": "https://github.com/justMorv/MVC#readme"
+}
